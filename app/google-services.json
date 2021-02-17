@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "655380446969",
+    "firebase_url": "https://all-game-app-37b89.firebaseio.com",
+    "project_id": "all-game-app-37b89",
+    "storage_bucket": "all-game-app-37b89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655380446969:android:a3b40e894bb72c675bac28",
+        "android_client_info": {
+          "package_name": "com.newgame.allgamesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655380446969-ghmii0kn2e8hji50foh7stosrag4g99s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB07It0Dc-X5OJ-LMdUaxrJTKG_oL_x5p4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655380446969-ghmii0kn2e8hji50foh7stosrag4g99s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

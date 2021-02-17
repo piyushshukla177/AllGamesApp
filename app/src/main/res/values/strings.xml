@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">All Games App in One</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    /// fb
+
+    <string name="fb_app_id">7526369787936558645</string>
+    <string name="fb_in">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>
+    <string name="fb_native_banner_ads">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>
+
+    <string name="fb_native_bannertemplate_ds">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>
+    <string name="fb_rectragle">CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID</string>
+
+
+    <string name="icon_desc">Ad icon</string>
+    <string name="image_desc">Ad image</string>
+    <string name="sponsored">Sponsored</string>
+    <string name="reload_native_ads_hscroll">Reload ads</string>
+
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="title_activity_all__games">All_Games</string>
+
+
+</resources>

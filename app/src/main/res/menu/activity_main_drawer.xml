@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+        <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/home"
+                android:icon="@drawable/ic_baseline_home_work_24"
+                android:title="Home" />
+
+            <item
+                android:id="@+id/all_game"
+                android:icon="@drawable/ic_baseline_videogame_asset_24"
+                android:title="All Games" />
+
+            <item
+                android:id="@+id/all_favorite"
+                android:icon="@drawable/ic_baseline_favorite_24"
+                android:title="Favorite" />
+        </group>
+
+        <item android:title="Communicate">
+            <menu>
+                <item android:title="Rate App"
+                    android:icon="@drawable/ic_baseline_star_rate_24"
+                    android:id="@+id/rate_app" />
+                <item
+                    android:id="@+id/share"
+                    android:icon="@drawable/ic_menu_share"
+                    android:title="Share Your Friends"/>
+                <item
+                    android:id="@+id/more_apps"
+                    android:icon="@drawable/ic_baseline_apps_24"
+                    android:title="Our More Apps" />
+
+                <item android:title="Privacy Policy"
+                    android:icon="@drawable/ic_baseline_privacy_tip_24"
+                    android:id="@+id/privacy_policy" />
+            </menu>
+        </item>
+    </menu>
